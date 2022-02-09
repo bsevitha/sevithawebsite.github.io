@@ -162,6 +162,9 @@ font-size : 18px;
 .services h1{
 	margin-bottom:15px;
 }
+.services-box{
+	margin-left:40px;
+}
 
 .save .fas{
 margin:3px;
@@ -204,7 +207,7 @@ margin:3px;
 	margin:3px;
 	font-size:18px;
 	font-weight:bold;
-margin-left: 80px;
+margin-left: 30px;
 	
 }
 .services-box .fa{
