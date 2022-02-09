@@ -157,7 +157,7 @@ font-size : 18px;
 .services{
 	padding-top:50px;
 	padding-bottom:50px;
-	padding-left:80px;
+	padding-left:30px;
 }
 .services h1{
 	margin-bottom:15px;
@@ -204,7 +204,7 @@ margin:3px;
 	margin:3px;
 	font-size:18px;
 	font-weight:bold;
-margin-left: 30px;
+margin-left: 80px;
 	
 }
 .services-box .fa{
