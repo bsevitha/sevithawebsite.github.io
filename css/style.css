@@ -6,7 +6,7 @@
 }
 
 .bgimg{
-	background-image: url('../img/download.jpg');
+	background-image: url('../img/ndsu.jpg');
 	background-size : 100% 100%;
 	background-attachment : fixed;
 	width : 100%;
@@ -216,9 +216,11 @@ margin-left: 30px;
 	color: #777;
 }
 .services-box{
-margin-top:30px;
+
 	background-color:#000;
 	color:#fff;
+	width: 370px;
+	margin-right: 60px;
 
 	border-top-right-radius:0px;
 	border-bottom-left-radius:0px;
@@ -247,7 +249,7 @@ margin-top:30px;
 .contact{
 	
 	padding-top:50px;
-	background-image:url('../img/phone.jpg');
+	background-image:url('../img/phn.jpg');
 
 	background-position:center;
 	background-size:cover;
@@ -262,7 +264,7 @@ margin-top:30px;
 .technicalskills{
 	
 	padding-top:50px;
-	background:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6));
+	background-image:url('../img/iStock-1221293664-1.jpg');
 	background-position:center;
 	
 	background-size:cover;
@@ -378,6 +380,38 @@ color: #fff;
 	padding-top:10px;
 	font-size:17px;
 	 position:center;
+}
+.technical{
+	margin-top:20px;
+		background-color:#FF7D33;
+		color:#fff;
+	width: 150px;
+		text-align: center;
+		padding-top: 20px;
+		transition:1s;
+		font-weight: bold;
+		font-size: 18px;
+		border-top-right-radius:50px;
+	border-bottom-left-radius:50px;
+	border-top-left-radius:50px;
+	border-bottom-right-radius:50px;
+	}
+.tech-head{
+	background-color:#fff;
+		color:#FF7D33;
+		margin-left: 400px;
+		margin-right: 400px;
+	
+	text-align: center;
+	border-top-right-radius:50px;
+	border-bottom-left-radius:50px;
+	border-top-left-radius:50px;
+	border-bottom-right-radius:50px;
+
+}
+.certify{
+	padding-top: 20px;
+	padding-left: 50px;
 }
 @media only screen and (max-width:600px)
 {
