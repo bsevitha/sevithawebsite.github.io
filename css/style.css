@@ -8,7 +8,7 @@
 .bgimg{
 	background-image: url('../img/ndsu.jpg');
 	background-size : 100% 100%;
-	background-attachment : fixed;
+	
 	width : 100%;
 	height :660px;
 	overflow-x: hidden;
